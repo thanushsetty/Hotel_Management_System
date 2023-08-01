@@ -55,6 +55,6 @@ Submit a pull request from your branch to the master branch of the main reposito
  
 
 Contact
-For any questions, suggestions, or inquiries, please contact manumanohar62405@gmail.com. 
+For any questions, suggestions, or inquiries, please contact thanushsetty293@gmail.com. 
 
 We appreciate your interest in the Hotel Management System project! Thank you for using our application.
