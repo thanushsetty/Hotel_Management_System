@@ -13,7 +13,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/GMANOHAR_1/hotel-management.git
+git clone https://github.com/thanushsetty/Hotel_Management_System.git
 Open the project in your preferred Java IDE (NetBeans).
 
 Ensure that you have Java Development Kit (JDK) installed on your system (version 8 or above).
